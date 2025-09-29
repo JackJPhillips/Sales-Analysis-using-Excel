@@ -22,9 +22,20 @@ Here is my Sales Dataset Analysis project. This Excel-based analysis showcases a
 
 ## 📁 Dataset Overview
 ### The dataset includes:
-- Sales transactions
-- Customer Information
-- Product categories
+|Column|Example|
+|-|-|
+|Transaction ID|150|
+|Date|24/11/2023|
+|Customer ID|CUST003|
+|Gender|Male|
+|Age|26|
+|Generation|Adult|
+|Product Category|Clothing|
+|Quantity|2|
+|Price Per Unit|50|
+|Through my analysis two more columns were created and added to the table:|
+|Total Sales|150|
+|Commision 2023|7.50|
 
 ### From this data I then calculated commision for a specified year:
 <img width="399" height="135" alt="image" src="https://github.com/user-attachments/assets/ad197b2c-51b9-4bcf-a997-e41819061162" />  
